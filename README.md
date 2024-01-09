@@ -6,6 +6,11 @@ Given you use english keyboard.
 Ctrl + G --> line nr
 ```
 
+## Go to method
+```
+Ctrl + p + @
+```
+
 ### Highlight a word
 ```
 Ctrl + D
