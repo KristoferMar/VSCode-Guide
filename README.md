@@ -39,6 +39,12 @@ Ctrl + /
 Alt up or Alt down
 ```
 
+## Select multiple lines
+For each line
+```
+Option + click
+```
+
 # Navigation related
 
 ## Toggle explorer
