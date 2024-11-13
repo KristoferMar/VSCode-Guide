@@ -25,14 +25,23 @@ Ctrl + L
 If you want to edit the same word in multiple places in the same file just press "Ctrl + D" again and again.
 
 
-## Delete line 
+Delete line 
 ```
 Ctrl + X
 ```
 
-## Comment out code
+Comment out code
 ```
 Ctrl + /
+```
+
+Close and open code blocks
+```
+Ctrl + Shift + [
+
+and to open
+
+Ctrl + Shift + ]
 ```
 
 ## Move line up and down 
@@ -73,10 +82,10 @@ Ctrl + k & Ctrl + s
 
 Toggle chat 
 ```
-Ctrl + Shift +
+Ctrl + Shift + \
 ```
 
 Toggle qick ask
 ```
-Ctrl + Shift + ]
+Ctrl + Shift + =
 ```
