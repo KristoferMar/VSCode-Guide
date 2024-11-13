@@ -1,12 +1,13 @@
 # VSCode-Guide shortcuts
 Given you use english keyboard.
 
-## Go to line
+# Editor shortcuts
+Go to line
 ```
 Ctrl + G --> line nr
 ```
 
-## Go to method
+Go to method
 ```
 Ctrl + p + @
 ```
@@ -47,12 +48,35 @@ Option + click
 
 # Navigation related
 
-## Toggle explorer
+Toggle explorer
 ```
 Ctrl + B
 ```
 
-## Open terminal
+Open terminal
 ```
 Ctrl + `
+```
+
+Navigate to fileview
+```
+Alt + 1 or 2 osv...
+```
+
+# Shortcuts
+Open shortcuts
+```
+Ctrl + k & Ctrl + s 
+```
+
+# Github Copilot
+
+Toggle chat 
+```
+Ctrl + Shift +
+```
+
+Toggle qick ask
+```
+Ctrl + Shift + ]
 ```
